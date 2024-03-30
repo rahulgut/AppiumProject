@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T12:05:44 CET" name="Default suite" finished-at="2024-03-29T12:06:20 CET" duration-ms="36559">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T12:05:44 CET" name="Default test" finished-at="2024-03-29T12:06:20 CET" duration-ms="36559">
+      <class name="AppiumProject.LearnMobile.EcomTest">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:AppiumProject.LearnMobile.EcomTest@1e6a3214]" started-at="2024-03-29T12:05:44 CET" name="configureAppium" finished-at="2024-03-29T12:05:48 CET" duration-ms="4776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="fillForm()[pri:0, instance:AppiumProject.LearnMobile.EcomTest@1e6a3214]" started-at="2024-03-29T12:05:48 CET" name="fillForm" finished-at="2024-03-29T12:06:20 CET" duration-ms="31760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AppiumProject.LearnMobile.EcomTest@1e6a3214]" started-at="2024-03-29T12:06:20 CET" name="tearDown" finished-at="2024-03-29T12:06:20 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AppiumProject.LearnMobile.EcomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
